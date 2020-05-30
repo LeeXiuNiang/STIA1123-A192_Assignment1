@@ -1,5 +1,4 @@
 
-
 public class RiceCooker {
 
    private String capacity;
