@@ -1,4 +1,3 @@
-
 //Inheritance
 public class ClassicElectricRiceCooker extends RiceCooker{
 
